@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    background-image: url("../imagen/fondo-flex.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content:end;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.div-img{
+    height: 140px;
+    width: 150px;
+    display: flex;
+
+}
+
+.caja1{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.caja2{
+    display:flex ;
+    justify-content: space-between;
+    
+}
+.caja3{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+Img{
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
